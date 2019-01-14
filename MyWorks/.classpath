@@ -72,5 +72,6 @@
 	<classpathentry kind="lib" path="Jarfiles/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="Jarfiles/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="lib" path="Jarfiles/selenium-bug-ie-click.jar"/>
+	<classpathentry kind="lib" path="Jarfiles/selenium-server-standalone-3.141.59 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
